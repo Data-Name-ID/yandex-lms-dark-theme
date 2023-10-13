@@ -122,6 +122,14 @@ svg.user-icon > path + path + circle, svg.user-icon > path + path + circle + cir
 	color: #ccc;
 }
 
+.cm-def {
+  color: #43C990;
+}
+
+.cm-variable-2 {
+  color: #9CDCFE;
+}
+
 .cm-string,
 .string {
 	color: #ce9178;
@@ -297,3 +305,4 @@ svg.user-icon > path + path + circle, svg.user-icon > path + path + circle + cir
 .sideblock {
 	max-width: 85vw;
 }
+
