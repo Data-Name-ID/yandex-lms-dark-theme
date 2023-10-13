@@ -4,7 +4,10 @@
 ## Примеры
 <details>
   <summary>Открыть примеры внешнего вида LMS</summary>
-  Скоро
+  <img src="https://i.imgur.com/bbRWMhK.png">
+  <img src="https://i.imgur.com/uB1alI9.png">
+  <img src="https://i.imgur.com/g9ZzhIZ.png">
+  <img src="https://i.imgur.com/bjetzrP.png">
 </details>
 
 ## Как установить?
