@@ -26,6 +26,11 @@
   --color-ticker: var(--main-bg);
   --color-status-active: none;
   --color-text-status: var(--color-text-heading);
+  --color-table-cell-text: var(--color-text-heading);
+
+  --color-text-warning: var(--color-text-positive);
+  --color-header-partial-accepted: #398639;
+  --color-indicator-green: var(--color-header-partial-accepted);
 }
 
 ::-webkit-scrollbar {
@@ -306,3 +311,15 @@ svg.user-icon > path + path + circle, svg.user-icon > path + path + circle + cir
 	max-width: 85vw;
 }
 
+.submission-header-viewer__date {
+  color: var(--color-text-heading);
+}
+
+*[style*='color: rgba(0, 0, 0, 0.85)'] {
+  color: var(--color-text-main);
+}
+
+div[style*='background: cornsilk'] {
+  background: var(--second-bg);
+  border: none;
+}
